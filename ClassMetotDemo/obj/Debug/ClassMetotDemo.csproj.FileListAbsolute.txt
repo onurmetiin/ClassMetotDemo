@@ -1,0 +1,6 @@
+/Users/onurmetin/Desktop/ClassMetotDemo/ClassMetotDemo/bin/Debug/ClassMetotDemo.exe
+/Users/onurmetin/Desktop/ClassMetotDemo/ClassMetotDemo/bin/Debug/ClassMetotDemo.pdb
+/Users/onurmetin/Desktop/ClassMetotDemo/ClassMetotDemo/obj/Debug/ClassMetotDemo.csprojAssemblyReference.cache
+/Users/onurmetin/Desktop/ClassMetotDemo/ClassMetotDemo/obj/Debug/ClassMetotDemo.csproj.CoreCompileInputs.cache
+/Users/onurmetin/Desktop/ClassMetotDemo/ClassMetotDemo/obj/Debug/ClassMetotDemo.exe
+/Users/onurmetin/Desktop/ClassMetotDemo/ClassMetotDemo/obj/Debug/ClassMetotDemo.pdb
